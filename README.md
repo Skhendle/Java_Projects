@@ -1,6 +1,7 @@
 # Java_Projects
 This repository is for projects I do for refining and enhancing my Java Skills.
-*TaskOne*
+
+#*TaskOne*
 
 Count positive and negative numbers and compute
 the average of numbers. Write a program that reads an
