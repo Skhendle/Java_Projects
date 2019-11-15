@@ -1,7 +1,6 @@
 # Java_Projects
 This repository is for projects I do for refining and enhancing my Java Skills.
-With some question from the Udemy course: Become A Professional Java Developer From Scratch.
-[Link](https://www.udemy.com/course/become-a-professional-java-developer-from-scratch/)
+With some question from the Udemy course: [Become A Professional Java Developer From Scratch.](https://www.udemy.com/course/become-a-professional-java-developer-from-scratch/)
 
 ## **TaskOne**
 
