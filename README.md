@@ -12,6 +12,7 @@ Your program ends with the input 0. Display the
 average as a floating-point number.
 
 #*TaskTwo*
+
 Write a program that prompts the user to enter the
 number of students and each student’s name and
 score, and finally displays the name of the student with
