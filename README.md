@@ -1,4 +1,4 @@
-# Java_Projects
+### Java_Projects
 This repository is for projects I do for refining and enhancing my Java Skills.
 
 #*TaskOne*
