@@ -18,3 +18,6 @@ number of students and each student’s name and
 score, and finally displays the name of the student with
 the highest score
 
+#*TaskTwo*
+
+Design an “Account” class. The class will have fields id(int), balance(double), annualInterestRate(double), and a “ Date “ field named dateCreated(just use Date date = new Date() ). It will have two constructors, a no argument constructor that will create a default account and a constructor with arguments id, balance, annualInterestRate, and Date, that will create an account with the specified parameters. All fields are private and will have getters and setters, except the date field which will not have a setter only a getter. You will also create a withdraw method to withdraw money from the account, a deposit method to add money to the account.
