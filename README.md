@@ -31,3 +31,17 @@ the highest score
 
 ### **Question:** 
 Design an “Account” class. The class will have fields id(int), balance(double), annualInterestRate(double), and a “ Date “ field named dateCreated(just use Date date = new Date() ). It will have two constructors, a no argument constructor that will create a default account and a constructor with arguments id, balance, annualInterestRate, and Date, that will create an account with the specified parameters. All fields are private and will have getters and setters, except the date field which will not have a setter only a getter. You will also create a withdraw method to withdraw money from the account, a deposit method to add money to the account.
+
+## **TaskFour**
+
+### **Objectives:** Inheritance and Polymorphism
+
+### **Question:** 
+Design a “ Person “ class. The class will have fields
+name, last name, age, and address. Those fields are
+going to be private and you will also create getters and
+setters in order to modify those fields. Create two
+constructors, one with no arguments which will set
+those fields to any value that you wish and other
+constructor with arguments name, last name, age and
+address to set up all those fields.
