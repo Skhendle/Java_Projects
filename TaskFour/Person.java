@@ -5,17 +5,20 @@ public class Person extends Address{
 	private String name;
 	private String lastName;
 	private int age;
-	private Address obj;
+	
 
 	//Constructors
 	public Person() {
 		
 	}
-	public Person( String name, String lastName, int age, Address obj) {
+	public Person( String name, String lastName, int age, String streetName, String section, String suburb, int postalCode) {
+		
+		super(streetName, section, suburb, postalCode);
+		
 		this.setName(name);
 		this.setLastName(lastName);
 		this.setAge(age);
-		this.setObj(obj);
+		
 	}
 
 	//Getters and setter
@@ -38,20 +41,13 @@ public class Person extends Address{
 		this.age = age;
 	}
 	
-	//Creating getters and setters for the Address object
-	private Address getObj() {
-		return obj;
-	}
-	private void setObj(Address obj) {
-		this.obj = obj;
-	}
-	
+
 	// Class methods
 	public void printPerson() {
 		System.out.println("Name: "+ this.getName() );
 		System.out.println("Lastname: "+ this.getLastName() );
 		System.out.println("Age: "+ this.getAge() );
-		this.getObj().printAddress();
+		this.printAddress();
 	}
 
 }
