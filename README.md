@@ -45,3 +45,40 @@ constructors, one with no arguments which will set
 those fields to any value that you wish and other
 constructor with arguments name, last name, age and
 address to set up all those fields.
+
+
+## **TaskFive**
+
+### **Objectives:** Abstract classes
+
+### **Question:** 
+
+1. Design a class named “ Student “ that will inherit
+from the “ Person “ class that you created in exercises
+in chapter 3. The new class will also have fields
+studentID, semester(which will tell at which semester is
+that student (max 8)), major(which will tell what the
+student is studying), and department(which will tell at
+which department of the college is the student
+studying). The class will have a no argument
+constructor, and also a constructor that will initialize all
+those variables and it will also class the super() to
+initialize the variables of the super class. It will also
+have getters and setters for all of those fields.
+
+2. Design a class named “ Instructor “ that will inherit
+from the “ Person “ class that you created in exercises
+in chapter 3. The new class will have instructorID,
+degree(which will tell if the instructor has a bachelor,
+master or PHD), classesTeaching(which will tell how
+many classes is the instructor teaching), major(which
+will tell what is the instructor teaching),
+department(which will tell at which department of the
+university is the instructor teaching),
+yearsWokring(which will tell how many years is the
+instructor working at the university), salary(which will
+tell the salary of the instructor). The class will have a no
+argument constructor, and also a constructor that will
+initialize all those variables and it will also class the
+super() to initialize the variables of the super class. It
+will also have getters and setters for all of those fields.
