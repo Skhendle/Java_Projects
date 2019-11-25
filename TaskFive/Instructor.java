@@ -50,7 +50,7 @@ public class Instructor extends Person {
 	}
 
 	private void setClassesTeaching(int classesTeaching) {
-		classesTeaching = classesTeaching;
+		this.classesTeaching = classesTeaching;
 	}
 
 	private String getMajor() {
@@ -85,28 +85,23 @@ public class Instructor extends Person {
 		this.salary = salary;
 	}
 	
-	// Print method()
-	/*
-	 * 
-	 * 
-	private String instructorID;
-	private String degree;
-	private int classesTeaching;
-	private String major;
-	private String department;
-	private int yearsWorking;
-	private double salary;
 
-	 * 
-	 * */
+	/* Print method()
+	 * This class prints out the following variables
+	 * @salary, @instructorID, @degree, @classesTeaching, @department 
+	 * @yearsWorking, @salary	 
+	 * *returns : void* 
+	 */
 	public void printInstructor() {
+		this.printPerson();
 		System.out.println("--Instructor details--");
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
+		System.out.println("Instructor ID: "+this.getInstructorID());
+		System.out.println("Degre: "+this.getDegree());
+		System.out.println("Classes teaching: "+this.getClassesTeaching());
+		System.out.println("Major: "+this.getMajor());
+		System.out.println("Department: "+this.getDepartment());
+		System.out.println("Years working: "+this.getYearsWorking());
+		System.out.println("Salary: "+this.getSalary());
 	}
 
 }
