@@ -1,4 +1,4 @@
-# Java_Projects
+# Java_Projects [![Build Status](https://travis-ci.com/Skhendle/Java_Projects.svg?branch=master)](https://travis-ci.com/Skhendle/Java_Projects)
 This repository is for projects I do for refining and enhancing my Java Skills.
 With some question from the Udemy course: [Become A Professional Java Developer From Scratch.](https://www.udemy.com/course/become-a-professional-java-developer-from-scratch/)
 
