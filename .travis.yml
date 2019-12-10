@@ -6,4 +6,18 @@ script:
   - javac Program.java
   - java Program < SampleInput.txt
   - cd ..
-  - ls
+  - cd TaskTwo
+  - javac Main.java
+  - java Main < input
+  - cd ..
+  - cd TaskThree
+  - javac Main.java
+  - java Main
+  - cd .. 
+  - cd TaskFour
+  - javac Main.java
+  - java Main
+  - cd .. 
+  - cd TaskFive
+  - javac Main.java
+  - java Main
