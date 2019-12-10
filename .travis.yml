@@ -9,4 +9,6 @@ script:
   - # do stuff with open OpenJDK 11
   - cd TaskOne
   - javac Program.java
-  - java Program
+  - java Program < SampleInput.txt
+  - cd ..
+  - ls
