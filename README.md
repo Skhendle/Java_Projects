@@ -107,3 +107,14 @@ If the specified index is out of bounds, display the
 message Out of Bounds .
 
 #**Note: Could not manage to contine executing the program after throwing the exception for the first question**
+
+
+
+## **TaskSeven**
+
+### **Objectives:** Reading and writing to files
+
+### **Task:** 
+
+1. The code in the creates a text.txt file in the directoey it is in and writes content worth three lines. 
+It then opens the file and reads the lines in the file and numbers them.
