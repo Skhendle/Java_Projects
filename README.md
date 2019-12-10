@@ -118,3 +118,11 @@ message Out of Bounds .
 
 1. The code creates a text.txt file in the directoey it is being runned in, and writes content worth three lines. 
 It then opens the file and reads the lines in the file and numbers them.
+
+## **TaskNine**
+
+### **Objectives:** Reading websites.
+
+### **Task:** 
+
+1. This program gets the html content of the specified website and writes the content in a text file called text.txt
