@@ -51,7 +51,7 @@ address to set up all those fields.
 
 ### **Objectives:** Abstract classes
 
-### **Question:** 
+### **Questions:** 
 
 1. Design a class named “ Student “ that will inherit
 from the “ Person “ class that you created in exercises
@@ -87,7 +87,7 @@ will also have getters and setters for all of those fields.
 
 ### **Objectives:** Exception Handling in Java
 
-### **Question:** 
+### **Questions:** 
 
 1. NumberFormatException - Write a program that will
 calculate two numbers, it can be division, multiplication
@@ -116,7 +116,7 @@ message Out of Bounds .
 
 ### **Task:** 
 
-1. The code creates a text.txt file in the directoey it is being runned in, and writes content worth three lines. 
+The code creates a text.txt file in the directoey it is being runned in, and writes content worth three lines. 
 It then opens the file and reads the lines in the file and numbers them.
 
 ## **TaskNine**
@@ -125,4 +125,4 @@ It then opens the file and reads the lines in the file and numbers them.
 
 ### **Task:** 
 
-1. This program gets the html content of the specified website and writes the content in a text file called text.txt
+This program gets the html content of the specified website and writes the content in a text file called text.txt
