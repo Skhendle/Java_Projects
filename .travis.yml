@@ -39,5 +39,5 @@ script:
   
   - cd TaskNine
   - javac Main.java
-  - java main
+  - java Main
   - cd ..
