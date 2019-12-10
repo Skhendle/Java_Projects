@@ -6,18 +6,38 @@ script:
   - javac Program.java
   - java Program < SampleInput.txt
   - cd ..
+  
   - cd TaskTwo
   - javac Main.java
   - java Main < input.txt
   - cd ..
+  
   - cd TaskThree
   - javac Main.java
   - java Main
   - cd .. 
+  
   - cd TaskFour
   - javac Main.java
   - java Main
   - cd .. 
+  
   - cd TaskFive
   - javac Main.java
   - java Main
+  - cd ..
+  
+  - cd TaskSix
+  - javac Main.java
+  - java Main
+  - cd ..
+  
+  - cd TaskSeven
+  - javac Main.java
+  - java Main
+  - cd ..
+  
+  - cd TaskNine
+  - javac Main.java
+  - java main
+  - cd ..
