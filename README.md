@@ -116,5 +116,5 @@ message Out of Bounds .
 
 ### **Task:** 
 
-1. The code in the creates a text.txt file in the directoey it is in and writes content worth three lines. 
+1. The code creates a text.txt file in the directoey it is being runned in, and writes content worth three lines. 
 It then opens the file and reads the lines in the file and numbers them.
