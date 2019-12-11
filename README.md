@@ -121,6 +121,18 @@ message Out of Bounds .
 The code creates a text.txt file in the directoey it is being runned in, and writes content worth three lines. 
 It then opens the file and reads the lines in the file and numbers them.
 
+## **TaskEight**
+
+### **Objectives:**Binary Input/Output.
+
+### **Task:** 
+
+(Sum all the integers in a binary data file ) Suppose
+a binary data file has been created and its data are
+created using writeInt(int) in DataOutputStream. The
+file contains an unspecified number of integers. Write a
+program to find the sum of the integers.
+
 ## **TaskNine**
 
 ### **Objectives:** Reading websites.
