@@ -4,7 +4,7 @@ With some question from the Udemy course: [Become A Professional Java Developer 
 
 ## **TaskOne**
 
-### **Objectives:** I/O, conditionals statements and loops.
+### **Topic:** I/O, conditionals statements and loops.
 
 ### **Question:**    
 Count positive and negative numbers and compute
@@ -17,7 +17,7 @@ average as a floating-point number.
 
 ## **TaskTwo**
 
-### **Objectives:** I/O, conditionals statements and loops.
+### **Topic:** I/O, conditionals statements and loops.
 
 ### **Question:** 
 Write a program that prompts the user to enter the
@@ -27,14 +27,14 @@ the highest score
 
 ## **TaskThree**
 
-### **Objectives:** Basics of classes and their functionality
+### **Topic:** Basics of classes and their functionality
 
 ### **Question:** 
 Design an “Account” class. The class will have fields id(int), balance(double), annualInterestRate(double), and a “ Date “ field named dateCreated(just use Date date = new Date() ). It will have two constructors, a no argument constructor that will create a default account and a constructor with arguments id, balance, annualInterestRate, and Date, that will create an account with the specified parameters. All fields are private and will have getters and setters, except the date field which will not have a setter only a getter. You will also create a withdraw method to withdraw money from the account, a deposit method to add money to the account.
 
 ## **TaskFour**
 
-### **Objectives:** Inheritance and Polymorphism
+### **Topic:** Inheritance and Polymorphism
 
 ### **Question:** 
 Design a “ Person “ class. The class will have fields
@@ -49,7 +49,7 @@ address to set up all those fields.
 
 ## **TaskFive**
 
-### **Objectives:** Abstract classes
+### **Topic:** Abstract classes
 
 ### **Questions:** 
 
@@ -85,7 +85,7 @@ will also have getters and setters for all of those fields.
 
 ## **TaskSix**
 
-### **Objectives:** Exception Handling in Java
+### **Topic:** Exception Handling in Java
 
 ### **Questions:** 
 
@@ -111,10 +111,9 @@ message Out of Bounds .
 #**Note: Could not manage to contine executing the program after throwing the exception for the first question**
 
 
-
 ## **TaskSeven**
 
-### **Objectives:** Reading and writing to files
+### **Topic:** Reading and writing to files
 
 ### **Task:** 
 
@@ -123,7 +122,7 @@ It then opens the file and reads the lines in the file and numbers them.
 
 ## **TaskEight**
 
-### **Objectives:** Binary Input/Output.
+### **Topic:** Binary Input/Output.
 
 ### **Task:** 
 
@@ -135,7 +134,7 @@ program to find the sum of the integers.
 
 ## **TaskNine**
 
-### **Objectives:** Reading websites.
+### **Topic:** Reading websites.
 
 ### **Task:** 
 
