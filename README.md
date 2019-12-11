@@ -123,7 +123,7 @@ It then opens the file and reads the lines in the file and numbers them.
 
 ## **TaskEight**
 
-### **Objectives:**Binary Input/Output.
+### **Objectives:** Binary Input/Output.
 
 ### **Task:** 
 
