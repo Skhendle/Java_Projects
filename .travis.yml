@@ -37,6 +37,11 @@ script:
   - java Main
   - cd ..
   
+  - cd TaskEight
+  - javac Main.java
+  - java Main
+  - cd ..
+
   - cd TaskNine
   - javac Main.java
   - java Main
